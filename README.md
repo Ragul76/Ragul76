@@ -9,10 +9,10 @@
 - front-end development
 
 ## 🏅 Certifications and Achievements
-- IT Specialist - Python [Certiport](https://www.certiport.com/)
-- CLA: Programming Essentials in C [Cisco Networking Academy](https://www.netacad.com/)
-- Star Performer, Full Stack Java Training Program (TNS India Foundation)
-- Participated in MINeD Hackathon 2024, focusing on ResumeRevealer problem statement with team Cyber-X.
+- Python Basics [Hacker Rank](https://www.certiport.com/)
+- Java Basics [Skill Basics](https://www.netacad.com/)
+- Introduction to MongoDB [MongoDB](https://www.netacad.com/)
+- Web Development Training(HTML,CSS) [CodeSoft](https://www.netacad.com/)
 
 ## 📝 Latest Articles
 - [Staying Updated in Technology](https://www.linkedin.com/in/kalaiselvi-a/)
