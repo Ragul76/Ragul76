@@ -5,8 +5,8 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Ragul76&color=blueviolet)
 
 ## 🔨 What I'm Currently Working On
-- Anomaly-based detection for Network Intrusion Detection System (NIDS) using Django and Python.
-- AI-powered recommendation system for an e-commerce platform using TensorFlow.
+- Currently working on artifical intelligence project
+- front-end development
 
 ## 🏅 Certifications and Achievements
 - IT Specialist - Python [Certiport](https://www.certiport.com/)
