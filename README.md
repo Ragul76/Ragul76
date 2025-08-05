@@ -5,22 +5,20 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Ragul76&color=blueviolet)
 
 ## 🔨 What I'm Currently Working On
-- Currently working on artifical intelligence project
-- front-end development
+- Pre-final Year student | Information Technology 
+- Web Development and AI
 
 ## 🏅 Certifications and Achievements
-- Python Basics [Hacker Rank](https://www.certiport.com/)
-- Java Basics [Skill Basics](https://www.netacad.com/)
-- Introduction to MongoDB [MongoDB](https://www.netacad.com/)
-- Web Development Training(HTML,CSS) [CodeSoft](https://www.netacad.com/)
+- Python Basics [Hacker Rank](https://www.hackerrank.com/certificates/b83dfe3fc58f)
+- Java Basics [Hacker Rank](https://www.hackerrank.com/certificates/f66b13cfc35b)
+- Introduction to MongoDB [MongoDB](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/b2a4344b-b86f-4623-8a5c-13aa25bd9356-ragul-srinivasan-48acba4e-82cc-4376-b0dd-89985325b70a-certificate.pdf)
+- MySQL Basics [Udemy](https://udemy-certificate.s3.amazonaws.com/image/UC-d6b389b6-a506-4559-ae51-4e00e18bf6fd.jpg)
 
 ## 📝 Latest Articles
-- [Staying Updated in Technology](https://www.linkedin.com/in/kalaiselvi-a/)
-- [Core Java 8 - Deep Dive](https://www.linkedin.com/in/kalaiselvi-a/)
+- Coming soon......
 
 ## 🌍 Open Source Contributions
-- Contributed to [OpenCV](https://github.com/opencv/opencv) (Facial Recognition Integration)
-- Participated in Django repository issues and bug fixes.
+- Coming soon......
 
 ## 🔥 GitHub Activity
 <p align="center">
@@ -37,23 +35,16 @@
 [Resume PDF](https://github.com/Ragul76/resume/blob/main/S.Ragul.pdf)
 
 ## 🌟 Key Projects
-### 1. Network Intrusion Detection System (NIDS)
-A Django-based system designed to detect and alert on network intrusions using signature-based and anomaly-based detection techniques. 
-- **Technologies**: Python, Django, Machine Learning (TensorFlow), PyShark
-- **Features**: Packet capture, analysis, and intrusion detection.
-- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/NIDS-Demo)
+### 1. Sports Website (HTML5,CSS3)
+A Website For a Sports Website using only html and css.
+- **Tools**: HTML5, CSS3
+- **Features**: Listing products, adding multimedia, hyperlinks.
+- **Live Demo**: [Demo Link](https://ragul76.github.io/Sports-Website/)
   
-### 2. AI-Powered E-Commerce Recommendation System
-An e-commerce platform using AI-based recommendation algorithms to personalize user experiences.
-- **Technologies**: Python, TensorFlow, Django, Bootstrap
-- **Features**: User authentication, product recommendation, real-time data analysis.
-- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/ECommerce-AI)
-
-### 3. Face Recognition-Based Online Attendance System
-A deep-learning-powered face recognition system for automating attendance.
-- **Technologies**: Python, OpenCV, TensorFlow, Flask
-- **Features**: Face detection, recognition, and attendance marking.
-- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/FaceRecognition-Attendance)
+### 2. Smart Home Automation
+Developed a smart home system enabling remote control and real-time monitoring. Gained hands-on experience with IoT, automation, and cloud-based device control.
+- **Tools**: Blynk IoT, C, NodeMCU, Sensors
+- **Features**: Remote device control, real-time sensor monitoring, energy-efficient automation, customizable rules, security alerts.
 
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -65,8 +56,8 @@ A deep-learning-powered face recognition system for automating attendance.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 💬 Testimonials
-- "Kalaiselvi is a dedicated and talented developer with a keen eye for detail." – Mentor, TNS India Foundation.
+- "Ragul is a dedicated and talented developer with a keen eye for detail." – Mentor, TNS India Foundation.
   
 ## 📚 Currently Learning
 - TensorFlow for Deep Learning
-- Advanced Microservices with Spring Boot
+- Artifical intelligence and Machine Learning
